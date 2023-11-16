@@ -55,3 +55,7 @@ What you should learn from this project:
 ### [8. More details](./8-index.html)
 
 - Write an HTML page that displays a header, a footer, a filter box (dropdown list) and the result of the search.
+  (hbnb)
+  Contributor:
+
+  1.[Juan Silva](Juansilva.dvm@gmail.com)
